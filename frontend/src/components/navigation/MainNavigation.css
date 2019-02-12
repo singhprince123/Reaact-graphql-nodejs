@@ -38,7 +38,7 @@
 }
 
 .main-navigation__items a:hover,
-.main-navigation__items a:active {
+.main-navigation__items a.active {
     color: green
 }
 
