@@ -31,14 +31,23 @@
     margin: 0.5rem;
 }
 
+.main-navigation__items li button {
+    background: rgb(233, 120, 15);
+    color: blue;
+    padding: 0.5rem;
+    font-size: inherit
+}
 .main-navigation__items a { 
     font-size: 1.2rem;
     text-decoration: none;
     color: #f51808;
+    border:none
 }
 
 .main-navigation__items a:hover,
 .main-navigation__items a.active {
     color: green
 }
+
+
 

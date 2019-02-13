@@ -1,0 +1,25 @@
+.events-control {
+    text-align: center;
+    border: 1px solid blue;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 30rem;
+    max-width: 80%
+}
+
+.btn {
+    background: blue;
+    border: 1px solid rgb(134, 216, 27);
+    border-radius: 5px;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    color: white;
+    text-transform: capitalize;
+    transition: all 0.5s ease;
+    margin: 0 0 0 1rem;
+}
+
+.btn:hover{
+    background: green;
+    border: 1px solid blue;
+}
